@@ -50,12 +50,24 @@ In the 2nd part of the lecture, we go over connecting Redux to React using `reac
 - [ ] *Bonus* Use action creators & object form of `mapDispatchToProps`
 - [ ] *Bonus* React-Redux hooks: `useSelector` and `useDispatch`
 
-## Part 3: Advanced Redux
+## Part 3: Redux Project Mode
 
 We'll add `redux` to a React project and go through all the necessary setup. We'll also talk about code organization, as well as some additional tools such as `redux-thunk` for working with `fetch` and `redux`, and the Redux DevTools.
 
 ### Videos
-- Coming soon!
+- [Playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybxgQAmloyPyOVFOxZ3C7TEx)
+- [Part 1: Project Overview](https://youtu.be/PN9RacjHGJE)
+- [Part 2: Basic Setup](https://youtu.be/ggUqxlKHLdk)
+- [Part 3: Reading State - mapStateToProps and useSelector](https://youtu.be/pM_XF-F25Ok)
+- [Part 4: Updating State - mapDispatchToProps](https://youtu.be/xoSyso1CzXA)
+- [Part 5: Updating State - useDispatch](https://youtu.be/ieXfZjzJdz0)
+- [Part 6: More dispatching](https://youtu.be/ieLe2YeYwzU)
+- [Part 7: Redux DevTools](https://youtu.be/SpjotFdVT-g)
+- [Part 8: combineReducers](https://youtu.be/scaptvCHoaM)
+- [Part 9: Action Creators](https://youtu.be/WO1qS-bJL-A)
+- [Part 10: Redux Thunk](https://youtu.be/27kTSP-oeHs)
+- [Part 11: More thunk](https://youtu.be/XqhsQRuZl3U)
+- [Part 12: Code Organization + Wrap Up](https://youtu.be/RHz0xYmN28I)
 
 ### SWBATs
 - [ ] Set up a project with Redux and React-Redux
