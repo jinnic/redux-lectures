@@ -23,7 +23,7 @@ Check the [INTRO.md](INTRO.md) file for more!
 - [ ] Explain what a pure function is
 - [ ] Explain the pattern / technique of message passing
 - [ ] Refactor a component's behavior to use message passing 
-- [ ] Install the redux library so it can be used in a project.
+- [ ] Install the redux library so it can be used in a project. `npm install redux`
 - [ ] Create a `store` in redux with some default `state`.
 - [ ] Create a `reducer` to change `state` based on an `action.type`.
 - [ ] Use `dispatch` to send an `action` to the `store` to make changes to `state`.
@@ -41,7 +41,7 @@ In the 2nd part of the lecture, we go over connecting Redux to React using `reac
 - [Part 4: React Redux Hooks](https://youtu.be/Mhpkz_jabcs)
 
 ### SWBATs
-- [ ] Install the `react-redux` library so it can be used in a project.
+- [ ] Install the `react-redux` library so it can be used in a project. `npm install react-redux`
 - [ ] Make the `store` available to their application by using the `Provider` component.
 - [ ] Use `connect` to give components the ability to listen for changes to the `store`.
 - [ ] Use `dispatch` in a React component.
