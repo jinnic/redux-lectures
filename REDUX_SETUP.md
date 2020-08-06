@@ -1,7 +1,7 @@
 # Redux Project Mode
 
 ## Basic React Redux Setup
-- [x] Install `redux` and `react-redux`
+- [x] Install `redux` and `react-redux`   `npm i redux react-redux`
 - [x] Create reducer function and default state
 - [x] Create `store` with `createStore`
 - [x] Create `Provider` at top level of component hierarchy with the `store` as a prop
